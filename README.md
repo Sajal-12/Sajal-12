@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAJAL</h1>
+<h1 align="center">Hi 👋, I'm SAJAL SWAPNIL</h1>
 <h3 align="center">I am currently pursuing B.E in Computer Science. I am a passionate learner. I love contributing to and building open source projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajal-12&label=Profile%20views&color=0e75b6&style=flat" alt="sajal-12" /> </p>
@@ -12,6 +12,10 @@
 - 👯 I’m looking to collaborate on **Flutter development Projects.**
 
 - 📫 How to reach me **sajalvictorious83@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
