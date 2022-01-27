@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Sajal 👋</h1>
-<h3 align="center">I am currently pursuing B.E in Computer Science. I am a passionate learner. I love contributing to and building open source projects. A passionate Frontend Web Developer And Native Android Devloper.</h3>
+<h3 align="center">I am currently pursuing B.E in Computer Science. I love contributing to and building open source projects. A passionate Frontend Web Developer And Native App Devloper.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajal-12&label=Profile%20views&color=0e75b6&style=flat" alt="sajal-12" /> </p>
 
