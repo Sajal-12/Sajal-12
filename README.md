@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Flutter , React , MongoDB , Redux ,**
 
-- 👯 I’m looking to collaborate on **Flutter development Projects.**
+- 👯 I’m looking to collaborate on **Android development Projects.**
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Android Devlopment , React , Flutter**
+- 💬 Ask me about **Android Devlopment , React **
 
 - 📫 How to reach me **sajalvictorious83@gmail.com**
 
