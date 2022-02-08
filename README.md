@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter , React , MongoDB , Redux ,**
 
-- 👯 I’m looking to collaborate on **Android development Projects.**
+- 👯 I’m looking to collaborate on **Android development Projects**
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
