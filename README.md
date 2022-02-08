@@ -21,13 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.@sajal12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.@sajal12" height="30" width="40" /></a>
 <a href="https://twitter.com/sajalswapnil1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajalswapnil1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sajal-swapnil-a93a741ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sajal-swapnil-a93a741ba/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sajal swapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajal swapnil" height="30" width="40" /></a>
 <a href="https://instagram.com/_sajal_swapnil12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sajal_swapnil12" height="30" width="40" /></a>
 <a href="https://medium.com/@sajalvictorious83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sajalvictorious83" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sajalvictorious1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sajalvictorious1" height="30" width="40" /></a>
-<a href="/https://medium.com/me/stories/public" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/me/stories/public" height="30" width="40" /></a>
+<a href="https://discord.gg/#6275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#6275" height="30" width="40" /></a>
+<a href="/https://medium.com/@sajalvictorious83" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://medium.com/@sajalvictorious83" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajal-12&show_icons=true&locale=en" alt="sajal-12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajal-12&" alt="sajal-12" /></p>
+
