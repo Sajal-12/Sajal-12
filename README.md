@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Android Devlopment , Front-End Web Development , JAVA , **
+- 💬 Ask me about **Android Devlopment , Front-End Web Development , JAVA**
 
 - 📫 How to reach me **sajalvictorious83@gmail.com**
 
