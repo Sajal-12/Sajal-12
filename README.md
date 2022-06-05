@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Development ( Web as well as Android ) Projects and learning new skills.**
 
-- 🌱 I’m currently learning **Android Dev , React , Flutter , Redux ,**
+- 🌱 I’m currently learning **Android Dev , React , Flutter , Redux**
 
 - 👯 I’m looking to collaborate on **Android development Projects.**
 
