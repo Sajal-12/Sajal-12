@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Development ( Web as well as Android ) Projects and learning new skills.**
 
-- 🌱 I’m currently learning **Android Dev , React , MongoDB , Redux ,**
+- 🌱 I’m currently learning **Android Dev , React , Flutter , Redux ,**
 
-- 👯 I’m looking to collaborate on **React and Android development Projects.**
+- 👯 I’m looking to collaborate on **Android development Projects.**
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **Android Devlopment , React ,**
+- 💬 Ask me about **Android Devlopment , Front-End Web Development , JAVA , **
 
 - 📫 How to reach me **sajalvictorious83@gmail.com**
 
