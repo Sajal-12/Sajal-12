@@ -15,6 +15,9 @@
 
 - 📫 How to reach me **sajalvictorious83@gmail.com**
 
+[![An image of @sajal_12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajal_12)](https://holopin.io/@sajal_12)
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
